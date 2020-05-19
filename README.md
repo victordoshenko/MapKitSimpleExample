@@ -1,3 +1,3 @@
 # MapKitSimpleExample
 Very Simple Example to work with Apple MapKit
-![](Screenshot 2020-05-19 at 18.55.26.png)
+![](https://github.com/victordoshenko/MapKitSimpleExample/blob/master/Screenshot%202020-05-19%20at%2018.55.26.png?raw=true)
