@@ -1,3 +1,3 @@
 # MapKitSimpleExample
 Very Simple Example to work with Apple MapKit
-![](https://github.com/victordoshenko/NewBestEverPlatformer/blob/master/Assets/Resources/Icons/Ico1024x500.png)
+![](Screenshot 2020-05-19 at 18.55.26.png)
